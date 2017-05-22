@@ -1,1 +1,1 @@
-Homework assignments for Lambda School Mini Bootcamp Spring 2017
+First Homework Assignments
